@@ -1,5 +1,6 @@
 # 💫 About Me:
 // Interested in back-end systems and embedded software
+// Currently working with Java SDK for Couchbase Servers and managing databases
 
 
 # 💻 Tech Stack:
