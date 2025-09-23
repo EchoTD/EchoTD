@@ -1,5 +1,5 @@
 # 💫 About Me:
-// Interested in back-end systems and embedded software<br><br>// Currently working with Java Spring to implement ESP32 based IoT Water Quality Sensor Network to the Web<br><br>// Check it out: ehmsukalitesi.online
+// Interested in back-end systems and embedded software<br><br>
 
 
 # 💻 Tech Stack:
